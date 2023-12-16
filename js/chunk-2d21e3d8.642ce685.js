@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([["chunk-2d21e3d8"],{d55f:function(t,n,e){"use strict";e.r(n);var d={data:function(){return{}}},a=e("2877"),r=Object(a.a)(d,(function(){var t=this.$createElement,n=this._self._c||t;return n("div",{},[n("MyDefaultImg",{attrs:{imgSrc:"ddddd"}})],1)}),[],!1,null,"9074a310",null);n.default=r.exports}}]);
